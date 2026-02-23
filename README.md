@@ -21,10 +21,11 @@
 
 ```bash
 # 1. 下载脚本 (使用 GitHub 原始链接确保获取最新版)
-curl -L -o install_steam.sh [https://raw.githubusercontent.com/5APU-A340/Steam-installer-for-general-Linux-systems/main/install_steam.sh](https://raw.githubusercontent.com/5APU-A340/Steam-installer-for-general-Linux-systems/main/install_steam.sh)
+curl -L -o install_steam.sh https://raw.githubusercontent.com/5APU-A340/Steam-installer-for-general-Linux-systems/main/install_steam.sh
 
 # 2. 赋予执行权限
 chmod +x install_steam.sh
 
 # 3. 以 sudo 权限运行
+
 sudo ./install_steam.sh
